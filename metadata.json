@@ -1,0 +1,6 @@
+{
+  "name": "TripSense AI",
+  "description": "Intelligent Travel Planning & Replanning Agent with Multi-Agent coordination, live travel companion, real-time traffic and hazard monitoring, and disruption replanning.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
